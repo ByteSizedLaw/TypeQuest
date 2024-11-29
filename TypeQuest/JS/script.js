@@ -1,6 +1,6 @@
 $(document).ready(function() {
     // Load questions from the JSON file
-    $.getJSON('questions.json', function(data) {
+    $.getJSON('https://raw.githubusercontent.com/Cyber-Finn/TypeQuest/refs/heads/main/TypeQuest/questions.json', function(data) {
         data.forEach((item, index) => {
             $('#questions-container').append(QuestionCardFactory(index + 1, item));
         });
