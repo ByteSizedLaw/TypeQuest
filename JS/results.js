@@ -138,7 +138,7 @@ $(document).ready(function() {
         const resultsContainer = $('#questions-container');
         resultsContainer.empty().show();
 
-        const mbtiImage = `<img src="https://github.com/Cyber-Finn/TypeQuest/blob/main/TypeQuest/Images/${mbtiType}.png" alt="${mbtiType}" class="mbti-image">`;
+        const mbtiImage = `<img src="https://raw.githubusercontent.com/Cyber-Finn/TypeQuest/refs/heads/main/TypeQuest/Images/${mbtiType}.png" alt="${mbtiType}" class="mbti-image">`;
 
         const resultsCard = `
             <div class="card">
