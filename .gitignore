@@ -1,0 +1,8 @@
+# Ignore the "Systems Analysis and Design" directory itself -> this is so that it doesn't break our pages
+"Systems Analysis and Design"/
+
+# Ignore the "TypeQuest" directory itself -> this is so that it doesn't break our pages
+TypeQuest/
+
+# Include all contents within the "TypeQuest" directory -> these will go straight to the root dir of the site
+!TypeQuest/*

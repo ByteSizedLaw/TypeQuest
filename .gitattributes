@@ -1,0 +1,2 @@
+# Add .gitignore to .gitattributes to keep it consistent
+.gitignore merge=ours
