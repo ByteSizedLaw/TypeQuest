@@ -30,7 +30,7 @@ $(document).ready(function() {
         });
 
         if (!allAnswered) {
-            alert('Please answer all questions before submitting.');
+            //alert('Please answer all questions before submitting.');
         } else {
             // Calculate Cognitive Functions and MBTI Type
             const cognitiveFunctionStack = calculateCognitiveFunctions(cognitiveScores);
@@ -138,7 +138,7 @@ $(document).ready(function() {
         const resultsContainer = $('#questions-container');
         resultsContainer.empty().show();
 
-        const mbtiImage = `<img src="images/${mbtiType}.png" alt="${mbtiType}" class="mbti-image">`;
+        const mbtiImage = `<img src="https://github.com/Cyber-Finn/TypeQuest/blob/main/TypeQuest/Images/${mbtiType}.png" alt="${mbtiType}" class="mbti-image">`;
 
         const resultsCard = `
             <div class="card">

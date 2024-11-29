@@ -89,7 +89,7 @@ $(document).ready(function() {
         if (!allAnswered) {
             alert('Please answer all questions before submitting.');
         } else {
-            alert('Form submitted!');
+            //alert('Form submitted!');
         }
     });
 });
