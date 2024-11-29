@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    
     // Load questions from the JSON file
     $.getJSON('https://raw.githubusercontent.com/Cyber-Finn/TypeQuest/refs/heads/main/TypeQuest/questions.json', function(data) {
         data.forEach((item, index) => {
