@@ -14,10 +14,13 @@ Users can clone this repository and add their own questions or edit the code to 
 This application can also be extended to allow others to easily create online survey platforms.
 
 ## How to add your own questions
-1. Clone this repository to a location on your PC
-2. Open the "TypeQuest" subfolder
+1. Clone this repository to a location on your PC.
+2. Open the "TypeQuest" subfolder.
 3. Edit the "questions.js" file and replace the questions with your own.
-4. Ensure that your questions adhere to the JSON format that the framework expects.
+4. Ensure that your questions adhere to the JSON format that the framework expects, or edit the code as you like.
+5. Ensure that the JS links and HTML references point to the link/address where your site will be hosted.
+6. For locally hosted sites, access the site via your IP address (Since the site isn't hosted behind a DNS), and ensure that the links point to the relevant paths.
+7. Host the site in your own Web Server or via a hosting platform to make it accessible over the internet.
 
 ## Current Features
 - **Interactive Questionnaires**: Uncover your personality type by answering a series of thoughtfully designed questions.
