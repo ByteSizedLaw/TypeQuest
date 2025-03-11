@@ -29,4 +29,4 @@ This application can also be extended to allow others to easily create online su
 - **Responsive Design**: Accessible on all devices, ensuring a seamless experience on desktops, tablets, and mobile phones.
 
 # Site
-The site is currently hosted [here](https://cyber-finn.github.io/TypeQuest/)
+The site is currently hosted [here](https://bytesizedlaw.github.io/TypeQuest/)
