@@ -1,171 +1,851 @@
 [
     {
-        "question": "I often have a strong sense of knowing what's going to happen in the future.",
+        "question": "I often predict how a situation will unfold based on subtle patterns I notice.",
         "type": "CognitiveFunction",
         "function": "Ni"
     },
     {
-        "question": "I enjoy spending time alone reflecting on abstract ideas.",
+        "question": "I enjoy diving deep into a single topic to uncover its underlying meaning.",
         "type": "CognitiveFunction",
         "function": "Ni"
     },
     {
-        "question": "I frequently come up with multiple ideas and solutions to a problem.",
+        "question": "I get a gut feeling about future outcomes that often turns out to be correct.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I find myself thinking about long-term implications of my decisions.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I’m drawn to exploring abstract ideas that connect past and future trends.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I often visualize how different pieces of a puzzle fit together over time.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I prefer focusing on one big idea rather than juggling multiple possibilities.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I trust my instincts when making decisions about what’s coming next.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I enjoy reflecting on how current events might shape the future.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I often see connections between seemingly unrelated ideas or events.",
+        "type": "CognitiveFunction",
+        "function": "Ni"
+    },
+    {
+        "question": "I love brainstorming creative solutions, like new ways to tackle a project.",
         "type": "CognitiveFunction",
         "function": "Ne"
     },
     {
-        "question": "I get excited by new possibilities and potential outcomes.",
+        "question": "I get excited imagining all the possibilities in a new situation.",
         "type": "CognitiveFunction",
         "function": "Ne"
     },
     {
-        "question": "I make decisions based on my personal values and inner sense of right and wrong.",
+        "question": "I often come up with multiple ideas for solving a single problem.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I enjoy exploring ‘what if’ scenarios in conversations or planning.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I find it easy to jump between different ideas during a discussion.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I’m energized by thinking about new ways to approach challenges.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I like combining ideas from different fields to create something new.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I often get distracted by exciting new possibilities or projects.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I enjoy experimenting with unconventional approaches to everyday tasks.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I’m quick to spot opportunities for innovation in my work or hobbies.",
+        "type": "CognitiveFunction",
+        "function": "Ne"
+    },
+    {
+        "question": "I make decisions based on what aligns with my core values.",
         "type": "CognitiveFunction",
         "function": "Fi"
     },
     {
-        "question": "I prefer to keep my feelings private and only share them with close friends.",
+        "question": "I prefer to keep my emotions private, sharing only with close friends.",
         "type": "CognitiveFunction",
         "function": "Fi"
     },
     {
-        "question": "I often find myself adjusting my behavior to maintain harmony in social situations.",
+        "question": "I feel strongly about staying true to who I am, even under pressure.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I often reflect on whether my actions match my personal beliefs.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I value authenticity and dislike pretending to be someone I’m not.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I feel deeply connected to causes that resonate with my values.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I take time to process my feelings before acting on them.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I’m guided by an inner sense of what’s right or wrong for me.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I prioritize my personal principles over group expectations.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I feel uncomfortable compromising my values to fit in.",
+        "type": "CognitiveFunction",
+        "function": "Fi"
+    },
+    {
+        "question": "I adjust my behavior to make others feel comfortable and included.",
         "type": "CognitiveFunction",
         "function": "Fe"
     },
     {
-        "question": "I feel a strong need to help others and contribute to the well-being of my community.",
+        "question": "I feel energized when I can help someone through a tough situation.",
         "type": "CognitiveFunction",
         "function": "Fe"
     },
     {
-        "question": "I rely on past experiences to guide my decisions and actions.",
+        "question": "I often prioritize group harmony over my own opinions.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I enjoy creating a positive atmosphere in social or work settings.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I’m sensitive to how others are feeling and try to support them.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I feel responsible for maintaining good relationships in my group.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I often consider how my actions impact others’ emotions.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I’m good at reading the mood of a room and responding to it.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I value feedback from others to ensure everyone’s needs are met.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I enjoy organizing group activities to bring people together.",
+        "type": "CognitiveFunction",
+        "function": "Fe"
+    },
+    {
+        "question": "I rely on past experiences to guide my decisions in similar situations.",
         "type": "CognitiveFunction",
         "function": "Si"
     },
     {
-        "question": "I prefer routines and familiar environments to new and unpredictable situations.",
+        "question": "I feel most comfortable in familiar environments, like my usual workspace.",
         "type": "CognitiveFunction",
         "function": "Si"
     },
     {
-        "question": "I enjoy being spontaneous and living in the moment.",
+        "question": "I enjoy sticking to routines that have worked well for me.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I value traditions or habits that connect me to my past.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I notice small details from previous experiences that others might overlook.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I prefer tried-and-true methods over experimenting with new approaches.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I feel grounded when I revisit familiar places or activities.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I keep track of details from past events to inform my choices.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I enjoy recreating experiences that have brought me comfort before.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I’m good at remembering specific facts or routines from my past.",
+        "type": "CognitiveFunction",
+        "function": "Si"
+    },
+    {
+        "question": "I thrive in spontaneous situations, like last-minute plans with friends.",
         "type": "CognitiveFunction",
         "function": "Se"
     },
     {
-        "question": "I pay close attention to my surroundings and notice details that others might miss.",
+        "question": "I notice details in my surroundings, like the vibe of a new place.",
         "type": "CognitiveFunction",
         "function": "Se"
     },
     {
-        "question": "I enjoy analyzing systems and understanding how things work on a fundamental level.",
+        "question": "I enjoy engaging my senses, like tasting new foods or exploring new places.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I’m quick to react to changes in my environment, like a sudden opportunity.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I love high-energy activities, like sports or live events.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I’m drawn to vibrant, fast-paced settings where things are happening.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I enjoy taking risks to experience something new and exciting.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I’m good at picking up on immediate cues, like someone’s body language.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I prefer living in the moment over planning too far ahead.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I’m energized by hands-on experiences, like trying a new skill.",
+        "type": "CognitiveFunction",
+        "function": "Se"
+    },
+    {
+        "question": "I enjoy analyzing problems logically to understand how things work.",
         "type": "CognitiveFunction",
         "function": "Ti"
     },
     {
-        "question": "I prefer to make decisions based on logic and objective reasoning.",
+        "question": "I prefer making decisions based on objective reasoning over emotions.",
         "type": "CognitiveFunction",
         "function": "Ti"
     },
     {
-        "question": "I like organizing tasks and projects to achieve specific goals.",
+        "question": "I like breaking down complex systems to see what makes them tick.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I spend time refining my understanding of a topic until it’s clear to me.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I enjoy solving puzzles or problems that require logical thinking.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I question assumptions to ensure they hold up under scrutiny.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I value precision in my thinking and dislike vague explanations.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I’m drawn to understanding the principles behind why things function.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I prefer to work through problems independently before seeking input.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I enjoy debates where I can test the logic of different arguments.",
+        "type": "CognitiveFunction",
+        "function": "Ti"
+    },
+    {
+        "question": "I like organizing tasks to achieve clear, measurable goals.",
         "type": "CognitiveFunction",
         "function": "Te"
     },
     {
-        "question": "I feel comfortable making quick decisions and taking charge in a leadership role.",
+        "question": "I feel confident taking charge of a project to ensure it’s completed efficiently.",
         "type": "CognitiveFunction",
         "function": "Te"
     },
     {
-        "question": "I strive for perfection and feel disappointed when I don't achieve it.",
+        "question": "I prefer structured plans over improvisation when working on a task.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I enjoy setting timelines and milestones to keep a project on track.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I’m good at delegating tasks to make a team more effective.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I value results and focus on what gets the job done efficiently.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I make decisions quickly when I have enough practical information.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I enjoy creating systems to streamline repetitive tasks.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I’m motivated by achieving measurable success in my work.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I organize my environment to maximize productivity and efficiency.",
+        "type": "CognitiveFunction",
+        "function": "Te"
+    },
+    {
+        "question": "I strive for perfection and get frustrated when things fall short.",
         "type": "Enneagram",
         "function": "Type1"
     },
     {
-        "question": "I believe in following rules and doing what is right.",
+        "question": "I believe it’s important to follow rules to maintain fairness.",
         "type": "Enneagram",
         "function": "Type1"
     },
     {
-        "question": "I feel fulfilled when I can help others and meet their needs.",
+        "question": "I notice flaws in systems and feel driven to fix them.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I hold myself to high standards in everything I do.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I feel responsible for ensuring things are done correctly.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I’m critical of myself when I make even small mistakes.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I value doing what’s right over what’s easy or convenient.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I enjoy improving processes to make them more efficient.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I feel uneasy when rules or standards are ignored.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I work hard to maintain order and structure in my life.",
+        "type": "Enneagram",
+        "function": "Type1"
+    },
+    {
+        "question": "I find joy in helping others solve their problems.",
         "type": "Enneagram",
         "function": "Type2"
     },
     {
-        "question": "I often put others' needs above my own.",
+        "question": "I often check in on friends to make sure they’re okay.",
         "type": "Enneagram",
         "function": "Type2"
     },
     {
-        "question": "I am driven to succeed and be recognized for my accomplishments.",
+        "question": "I feel fulfilled when I can make someone’s day better.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I prioritize others’ needs over my own in most situations.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I’m quick to offer support when someone seems overwhelmed.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I feel valued when others appreciate my help or kindness.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I enjoy building strong, supportive relationships with others.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I often go out of my way to make others feel cared for.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I feel a strong need to be needed by those around me.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I’m good at sensing when someone needs emotional support.",
+        "type": "Enneagram",
+        "function": "Type2"
+    },
+    {
+        "question": "I’m driven to achieve goals that earn recognition from others.",
         "type": "Enneagram",
         "function": "Type3"
     },
     {
-        "question": "I enjoy setting and achieving ambitious goals.",
+        "question": "I work hard to present myself as successful and competent.",
         "type": "Enneagram",
         "function": "Type3"
     },
     {
-        "question": "I feel unique and different from others, and I embrace my individuality.",
+        "question": "I enjoy setting ambitious targets and celebrating my wins.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I feel motivated by opportunities to stand out in my field.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I adapt quickly to what’s expected to achieve my goals.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I enjoy being seen as someone who gets things done well.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I focus on building a strong reputation in my work or community.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I’m energized by competing to be the best at what I do.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I plan my actions to maximize my success and impact.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I feel proud when my achievements are recognized publicly.",
+        "type": "Enneagram",
+        "function": "Type3"
+    },
+    {
+        "question": "I express myself through unique choices, like my style or hobbies.",
         "type": "Enneagram",
         "function": "Type4"
     },
     {
-        "question": "I often experience intense emotions and value personal expression.",
+        "question": "I connect deeply with art, music, or stories that reflect my emotions.",
         "type": "Enneagram",
         "function": "Type4"
     },
     {
-        "question": "I am curious and enjoy learning new things in depth.",
+        "question": "I value being authentic, even if it makes me stand out.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I often feel my emotions more intensely than others seem to.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I’m drawn to creating things that reflect my inner world.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I feel misunderstood when others don’t see my unique perspective.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I enjoy exploring my identity through creative outlets.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I value experiences that let me express my individuality.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I’m comfortable being different from the crowd.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I often reflect on what makes me unique compared to others.",
+        "type": "Enneagram",
+        "function": "Type4"
+    },
+    {
+        "question": "I love diving deep into a topic to learn everything about it.",
         "type": "Enneagram",
         "function": "Type5"
     },
     {
-        "question": "I prefer to observe and gather information before taking action.",
+        "question": "I prefer to think things through before sharing my ideas.",
         "type": "Enneagram",
         "function": "Type5"
     },
     {
-        "question": "I value security and seek reassurance from others.",
+        "question": "I enjoy mastering a skill or subject to feel confident in it.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I value having time alone to process my thoughts and ideas.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I’m curious about how things work and enjoy researching details.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I prefer observing situations before jumping into action.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I feel most comfortable when I’m well-informed about a topic.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I enjoy analyzing complex ideas to understand them fully.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I value independence in my learning and decision-making.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I’m drawn to collecting knowledge that others might overlook.",
+        "type": "Enneagram",
+        "function": "Type5"
+    },
+    {
+        "question": "I seek advice from trusted people when facing uncertainty.",
         "type": "Enneagram",
         "function": "Type6"
     },
     {
-        "question": "I am loyal to my friends and family and expect the same in return.",
+        "question": "I value loyalty and stand by my friends and family.",
         "type": "Enneagram",
         "function": "Type6"
     },
     {
-        "question": "I enjoy new experiences and am always looking for fun and excitement.",
+        "question": "I plan ahead to avoid risks or unexpected challenges.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I feel anxious when I don’t know what to expect in a situation.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I rely on trusted routines or systems to feel secure.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I’m good at anticipating problems and preparing for them.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I value having a reliable support network around me.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I feel reassured when I have a clear plan for what’s next.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I’m cautious about trusting new people or situations.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I prefer stable environments over unpredictable ones.",
+        "type": "Enneagram",
+        "function": "Type6"
+    },
+    {
+        "question": "I get excited about trying new activities or adventures.",
         "type": "Enneagram",
         "function": "Type7"
     },
     {
-        "question": "I prefer to stay positive and avoid negative emotions.",
+        "question": "I focus on the positive side of situations to stay upbeat.",
         "type": "Enneagram",
         "function": "Type7"
     },
     {
-        "question": "I am confident and assertive, and I stand up for what I believe in.",
+        "question": "I love the freedom to explore new opportunities without limits.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I avoid dwelling on negative emotions and seek fun instead.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I’m energized by spontaneous plans, like a last-minute trip.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I enjoy keeping my options open rather than committing early.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I’m drawn to experiences that promise excitement and variety.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I dislike feeling tied down by strict schedules or rules.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I’m quick to pivot to new ideas when things get boring.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I enjoy juggling multiple projects to keep life interesting.",
+        "type": "Enneagram",
+        "function": "Type7"
+    },
+    {
+        "question": "I stand up for my beliefs, even if it means conflict.",
         "type": "Enneagram",
         "function": "Type8"
     },
     {
-        "question": "I dislike being controlled and value independence.",
+        "question": "I feel confident taking charge in challenging situations.",
         "type": "Enneagram",
         "function": "Type8"
     },
     {
-        "question": "I seek harmony and avoid conflict whenever possible.",
+        "question": "I value being independent and making my own decisions.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I’m comfortable confronting issues directly to resolve them.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I dislike being controlled or told what to do.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I’m motivated to protect those who can’t stand up for themselves.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I enjoy taking on challenges that test my strength or resolve.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I feel energized when I can lead others toward a goal.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I value honesty and directness in my interactions.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I’m driven to maintain control over my own path in life.",
+        "type": "Enneagram",
+        "function": "Type8"
+    },
+    {
+        "question": "I avoid conflict to keep things calm and peaceful.",
         "type": "Enneagram",
         "function": "Type9"
     },
     {
-        "question": "I often go along with others' opinions to keep the peace.",
+        "question": "I’m okay with compromising to ensure everyone gets along.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I prefer relaxed environments where people aren’t pushy.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I go along with others’ plans to avoid disagreements.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I feel most comfortable in settings that feel harmonious.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I avoid expressing strong opinions if it might upset others.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I enjoy blending into a group rather than standing out.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I prioritize keeping the peace over pushing my own agenda.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I’m patient and accepting of others’ differences.",
+        "type": "Enneagram",
+        "function": "Type9"
+    },
+    {
+        "question": "I feel content when everyone around me is getting along.",
         "type": "Enneagram",
         "function": "Type9"
     }
